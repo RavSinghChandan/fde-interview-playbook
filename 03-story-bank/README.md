@@ -9,6 +9,7 @@ Keep each story truthful and concise. In a live interview, ask permission to go 
 - **Your work:** YOLO11 exported to ONNX, FastAPI and Angular product, multilingual and read-aloud interaction, cited NRC/BIS tables, multi-tenant operations panel.
 - **Evidence:** Evaluation caught Hinglish sick-flock reports routed incorrectly in 5 of 13 cases; routing and invented-number guard were fixed, reaching 13/13 on that evaluation.
 - **Trade-off to explain:** What performance or model capability was accepted to support CPU deployment? Add your measured results.
+- **Also answers:** environment constraints (CPU-only hosting). See [Session 01](../01-bootcamp-sessions/2026-10-10-dev-environment-uv/README.md).
 - **Likely probes:** User research; poor photos; advice freshness; offline behavior; privacy; tenant isolation; model failure; how 13 cases were selected; what “fixed” means.
 
 ## 2. Aaina — evaluation, user preference, invariant enforcement
@@ -44,6 +45,7 @@ Keep each story truthful and concise. In a live interview, ask permission to go 
 - **Evidence:** 106 merged pull requests across projects including pypdf and fontTools, reviewed and merged by maintainers.
 - **Prepare one PR deeply:** User problem, repository context, reproduction, implementation, tests, review feedback, final outcome.
 - **Likely probes:** A review you disagreed with; how you prioritize external work; how maintainers' standards changed your approach.
+- **Also answers:** "Can you write production Python?" See [Session 02](../01-bootcamp-sessions/2026-10-11-python-fundamentals/README.md).
 
 ## Story capture card
 

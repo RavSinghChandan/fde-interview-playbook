@@ -2,6 +2,7 @@
 
 **Source:** supplied VTT transcript, `GMT20261004-021909_Recording.transcript.vtt`
 **Session type:** induction and cohort Q&A
+**Also used:** the short same-day follow-up Q&A recording, `GMT20261004-084659_Recording.transcript.vtt` (see the last section).
 **Technical lesson:** this recording does not teach a detailed technical implementation. Treat the interview prompts below as preparation derived from the session themes and your CV, not as verbatim instructor questions.
 
 ## Useful ideas from the session
@@ -54,6 +55,23 @@ Use **Poultry 360**. Explain the farmer's task, why manual counting or generic a
 2. Explain one product using CLEAR from `00-start-here/answer-method.md`.
 3. Ask yourself “why?”, “what failed?”, “how do you know?”, and “what would you change?” after every claim.
 4. Note any metric you cannot defend and correct it before using the story.
+
+## Same-day follow-up Q&A (afternoon recording)
+
+A short career Q&A. No technical lesson. The instructors' points, summarized without participant details:
+
+- **AI is usually an enhancement on top of existing software, not a replacement.** The examples were a phone camera that uses AI to improve photos, and a chat app that is not itself AI. Enterprise stacks such as Java are not going away.
+- **"AI FDE" vs FDE.** Engineers who already own client-facing delivery may already be doing FDE work. The AI part is what the course adds.
+- **The FDE route was described as sufficient for experienced engineers.** Architect roles focus more on design and guiding developers, and the right target depends on the job description.
+- **Relevance in banking and insurance companies depends on the project.** Most companies are trying to add AI, so look for openings where you can apply it.
+
+### Interview question: You come from Java and enterprise systems. Why FDE, and how does that experience help?
+
+**Short answer:** "Most AI value in a company sits on top of systems that already exist: banking services, airline transactions, internal tools. I have built those systems in Java, so I understand integration, reliability and the constraints of regulated environments. I have also built and run AI products end to end. An FDE needs both: someone who can connect a model to a real workflow safely, inside the customer's existing stack."
+
+**Follow-ups:** Which AI feature would you add to a system you built before, and how would you measure it? What would you refuse to automate? How do you handle data that cannot leave the customer's network?
+
+**Honesty rule:** describe your past work as it was. Show how it prepares you for AI integration, but never relabel non-AI work as AI work.
 
 ## Open items for later sessions
 

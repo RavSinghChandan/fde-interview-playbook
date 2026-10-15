@@ -8,6 +8,11 @@
 - 5 minutes: review whether you made your own role, evidence, and trade-off clear.
 - 5 minutes: update the story card or add a missing fact to verify.
 
+## Session drills
+
+- [Session 01: recreate a project environment from files alone](../01-bootcamp-sessions/2026-10-10-dev-environment-uv/README.md#practical-drill-15-minutes) (15 min)
+- [Session 02: predict the output of six Python lines](../01-bootcamp-sessions/2026-10-11-python-fundamentals/README.md#practical-drill-10-minutes) (10 min)
+
 ## 45-minute mock interview
 
 1. **5 min — introduction and role fit.**
