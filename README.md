@@ -21,6 +21,7 @@ A practical, personal preparation system for Forward Deployed Engineering interv
 
 ## Contents
 
+- [Rules for future LLMs and maintainers](RULES.md)
 - [Candidate positioning](00-start-here/positioning.md)
 - [90-second introduction](00-start-here/90-second-introduction.md)
 - [Answer method](00-start-here/answer-method.md)
