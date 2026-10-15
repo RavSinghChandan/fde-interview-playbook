@@ -32,7 +32,7 @@ For each new class or update:
 
 - Use plain, simple English that is natural for an Indian engineering interview. Expand uncommon acronyms once.
 - Be direct, respectful, and confident without exaggerating. Avoid buzzword-heavy language and memorized-sounding speeches.
-- Put a short answer first, then likely follow-up questions and answers. The first response should usually fit in 45–90 seconds and invite a deeper discussion.
+- Put a short answer first, then likely follow-up questions and answers. **Every follow-up question or probe must have its answer written directly under it**, so the reader never has to search elsewhere. If the answer depends on Rav's own facts, give the answer pattern and mark what he must fill in. The first response should usually fit in 45–90 seconds and invite a deeper discussion.
 - Use concrete examples from Rav's real experience. Make his personal contribution distinct from team, employer, framework, and model contributions.
 - Help him explain decisions, alternatives, constraints, evidence, failure modes, trade-offs, recovery, and learning.
 - Do not coach him to bluff. When exact experience is missing, provide a truthful answer pattern such as: what he knows, what he has not implemented, and how he would investigate or test it.

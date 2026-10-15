@@ -17,20 +17,20 @@
 
 **Ready answer:** [45–75 second response tailored to Rav's real evidence]
 
-**Follow-ups:**
+**Follow-ups, with answers:**
 
-- [Why did you choose it?]
-- [What could fail?]
-- [How would you measure it?]
+- *[Why did you choose it?]* [Short answer.]
+- *[What could fail?]* [Short answer.]
+- *[How would you measure it?]* [Short answer.]
 
 ## Interview question 2: [question]
 
 **Ready answer:** [answer]
 
-**Follow-ups:**
+**Follow-ups, with answers:**
 
-- [probe]
-- [probe]
+- *[probe]* [Short answer.]
+- *[probe]* [Short answer.]
 
 ## Practical drill (10–20 minutes)
 

@@ -32,4 +32,11 @@ A field team in India needs quick guidance from photos and short voice notes. Co
 
 **Your first response:** ask which decision the guidance supports, who is accountable, what source material is authoritative, what happens when the model is uncertain, what devices and languages are used, and how success and harm are measured. Then propose a limited pilot with human review for high-impact advice, clear source grounding, offline or retry behavior, and an explicit fallback to a person.
 
-**Interviewer probes:** What do you ship in week one? What if users share poor photos? How do you test code-switching? How do you keep advice current? What data should not be retained? What would make you stop the pilot?
+**Interviewer probes, with answers:**
+
+- **What do you ship in week one?** One decision for one user group. Answers come from trusted source tables or rules, with a clear "ask a person" button. No free-form AI advice yet.
+- **What if users share poor photos?** Check the photo quality first and ask for a retake with a simple tip, rather than giving a confident wrong answer. Log how often retakes happen.
+- **How do you test code-switching (mixing languages, such as Hinglish)?** Build a test set of real mixed-language messages and run it in CI with a minimum pass rate. In Poultry 360, this kind of set found that only 5 of 13 Hinglish trouble reports were routed correctly before the fix.
+- **How do you keep advice current?** Advice comes from versioned source material with an owner and a review date. When the source changes, re-run the evaluations before release.
+- **What data should not be retained?** Photos and voice notes beyond processing, unless the user agrees, plus phone numbers in logs and anything not needed for the task.
+- **What would make you stop the pilot?** Any unsafe advice that reached a user, field users not adopting it, or human review becoming a bottleneck. Agree on these stop rules before starting.

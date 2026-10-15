@@ -4,7 +4,9 @@
 
 **Story anchor:** Aaina evaluation found the model dropped customers' dislikes in 3 of 15 answers. Explain how you noticed the risk, how you made the behavior testable in code, why a repair retry was chosen, and what “100%” means for that tested set. Do not claim universal performance from a 15-case evaluation.
 
-**Probe:** Why not just improve the prompt? Explain why an important invariant deserved code enforcement and how you would broaden the test set.
+**Probe: Why not just improve the prompt?**
+
+**Answer:** "A prompt is a request, not a guarantee. With rules only in the prompt, 3 of 15 live profiles still broke them. A customer's dislike must never be ignored, so I moved the rule into code: the catalog is filtered before the model sees it, and the answer is checked afterwards. A model cannot pick an option it was never given. To broaden the test set, I would add held-out profiles I did not tune on, more languages, and every real complaint as a new case."
 
 ## Q: Tell me about a time you handled a production constraint.
 
