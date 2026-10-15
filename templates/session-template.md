@@ -1,46 +1,74 @@
-# Session NN — [class topic] ([date])
+# 🧩 Session NN — [class topic]
 
-**Source:** [transcript filename or class link]
-**What was actually taught:** [short factual summary; distinguish instructor content from Q&A and your own interview practice]
+![Date](https://img.shields.io/badge/date-DD%20Mon%20YYYY-2563eb?style=flat-square)
+![Type](https://img.shields.io/badge/type-[session%20type]-9333ea?style=flat-square)
+![Questions](https://img.shields.io/badge/interview%20questions-N-16a34a?style=flat-square)
 
-## 10-minute recap
+> [!NOTE]
+> **📼 Source:** [transcript filename or class link]. Not stored in this repository.
+>
+> **🧪 What was taught:** [short factual summary. Keep instructor content separate from Q&A and from your own interview preparation.]
+
+---
+
+## 📚 What the instructor covered
+
+| Topic | Key point |
+|---|---|
+| | |
+
+## ⏱️ 10-minute recap
 
 [Explain the concept in plain English.]
 
-## Key decisions and trade-offs
+## ⚖️ Key decisions and trade-offs
 
-- [When it helps]
-- [When it is a poor fit]
-- [Failure modes and recovery]
+| Choice | ✅ Good when | ⚠️ Poor fit / risk |
+|---|---|---|
+| | | |
 
-## Interview question 1: [question]
+---
 
-**Ready answer:** [45–75 second response tailored to Rav's real evidence]
+## 💬 Q1. [question]
 
-**Follow-ups, with answers:**
+> [!TIP]
+> **🗣️ Say this (45–75 s)**
+>
+> "[answer tailored to Rav's real evidence]"
 
-- *[Why did you choose it?]* [Short answer.]
-- *[What could fail?]* [Short answer.]
-- *[How would you measure it?]* [Short answer.]
+**❓ Follow-ups** · *click to open*
 
-## Interview question 2: [question]
+<details>
+<summary><b>[Why did you choose it?]</b></summary>
 
-**Ready answer:** [answer]
+[Short answer. Every follow-up must have its answer here.]
 
-**Follow-ups, with answers:**
+</details>
 
-- *[probe]* [Short answer.]
-- *[probe]* [Short answer.]
+<details>
+<summary><b>[What could fail?]</b></summary>
 
-## Practical drill (10–20 minutes)
+[Short answer.]
 
-[One activity that can be completed without rewatching the lecture.]
+</details>
 
-## Candidate evidence to prepare
+---
 
-- [Project/story]
-- [Metric or fact to verify]
+## 🏋️ Practical drill (10–20 minutes)
 
-## Open questions
+- [ ] [One activity that can be done without rewatching the lecture]
 
-- [Things the transcript did not answer]
+## 🧾 Candidate evidence to prepare
+
+- [Project or story]
+
+> [!IMPORTANT]
+> **✍️ To verify:** [facts only Rav can confirm]
+
+## 🔍 Open questions
+
+- [Things the class did not answer]
+
+---
+
+⬅️ [Previous session](../README.md) · 🏠 [README](../../README.md)

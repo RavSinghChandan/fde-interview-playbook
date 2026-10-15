@@ -1,41 +1,60 @@
-# Practice sessions
+# 🏋️ Practice sessions
 
-## 20-minute daily drill
+## ⏱️ 20-minute daily drill
 
-- 2 minutes: choose a question and identify its intent (discovery, technical depth, ownership, or communication).
-- 3 minutes: answer out loud without reading.
-- 5 minutes: answer three follow-ups: “Why?”, “How do you know?”, “What failed or could fail?”
-- 5 minutes: review whether you made your own role, evidence, and trade-off clear.
-- 5 minutes: update the story card or add a missing fact to verify.
+| Min | Do this |
+|:---:|---|
+| 2 | 🎯 Choose a question and name its intent: discovery, technical depth, ownership or communication |
+| 3 | 🗣️ Answer **out loud** without reading |
+| 5 | ❓ Answer three follow-ups: *Why? How do you know? What failed or could fail?* |
+| 5 | 🔍 Check: was your own role, evidence and trade-off clear? |
+| 5 | ✍️ Update the story card or note a fact to verify |
 
-## Session drills
+## 📚 Session drills
 
-- [Session 01: recreate a project environment from files alone](../01-bootcamp-sessions/2026-10-10-dev-environment-uv/README.md#practical-drill-15-minutes) (15 min)
-- [Session 02: predict the output of six Python lines](../01-bootcamp-sessions/2026-10-11-python-fundamentals/README.md#practical-drill-10-minutes) (10 min)
+| Session | Drill | Time |
+|---|---|:---:|
+| 🛠️ [Session 01](../01-bootcamp-sessions/2026-10-10-dev-environment-uv/README.md) | Recreate a project environment from your files alone | 15 min |
+| 🐍 [Session 02](../01-bootcamp-sessions/2026-10-11-python-fundamentals/README.md) | Predict the output of seven Python lines (answers included) | 10 min |
 
-## 45-minute mock interview
+---
 
-1. **5 min — introduction and role fit.**
-2. **10 min — one project deep dive.** Interviewer keeps probing on architecture, evaluation, and ownership.
-3. **15 min — customer case.** Clarify the workflow, constraints, success measure, solution, rollout, and failure path.
-4. **10 min — technical follow-ups.** Choose from AI, backend integration, security, or reliability based on the project.
-5. **5 min — candidate questions.** Ask about customer engagement, deployment ownership, success measures, and how product feedback reaches engineering.
+## 🎭 45-minute mock interview
 
-## Score yourself (0–2 each)
+| Min | Round | Focus |
+|:---:|---|---|
+| 5 | 👋 Introduction | Role fit |
+| 10 | 🔬 Project deep dive | Interviewer keeps probing architecture, evaluation, ownership |
+| 15 | 🤝 Customer case | Workflow → constraints → success measure → solution → rollout → failure path |
+| 10 | ⚙️ Technical follow-ups | AI, backend integration, security or reliability |
+| 5 | 🙋 Your questions | See the list below |
 
-- Did I clarify who has the problem?
-- Did I explain my personal contribution accurately?
-- Did I give evidence instead of a broad claim?
-- Did I explain a trade-off?
-- Did I cover failure, safety, or operations where relevant?
-- Was the answer clear and concise?
+## 📊 Score yourself (0–2 each)
 
-**0:** absent or unclear · **1:** partly clear · **2:** specific and supported. Repeat any answer below 9/12; the score is for practice, not a hiring prediction.
+| Check | 0 | 1 | 2 |
+|---|:---:|:---:|:---:|
+| Did I clarify who has the problem? | ☐ | ☐ | ☐ |
+| Did I explain my personal contribution accurately? | ☐ | ☐ | ☐ |
+| Did I give evidence instead of a broad claim? | ☐ | ☐ | ☐ |
+| Did I explain a trade-off? | ☐ | ☐ | ☐ |
+| Did I cover failure, safety or operations where relevant? | ☐ | ☐ | ☐ |
+| Was the answer clear and concise? | ☐ | ☐ | ☐ |
 
-## Questions to ask the interviewer
+**0** absent or unclear · **1** partly clear · **2** specific and supported
 
-- How often do FDEs work directly with end users versus technical stakeholders?
-- What does ownership look like after the first deployment?
-- How does the team decide whether a customer-specific solution should become product capability?
-- What are the most common production constraints in your customer environments?
-- How are customer outcomes and engineering quality measured?
+> [!TIP]
+> Repeat any answer that scores **below 9/12**. The score is for practice, not a hiring prediction.
+
+---
+
+## 🙋 Questions to ask the interviewer
+
+- 👥 How often do FDEs work directly with end users versus technical stakeholders?
+- 🔁 What does ownership look like after the first deployment?
+- 🧩 How does the team decide whether a customer-specific solution should become product capability?
+- 🚧 What are the most common production constraints in your customer environments?
+- 📈 How are customer outcomes and engineering quality measured?
+
+---
+
+🏠 [Back to README](../README.md)

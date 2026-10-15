@@ -80,6 +80,18 @@ For customer or system design cases, clarify the user, task, current workflow, c
 - Avoid duplicating long material. Link to a canonical page where possible.
 - Label assumptions, unverified facts, and open questions. Do not silently turn them into claims.
 - Keep Markdown readable, use descriptive headings, and run `git diff --check` before committing.
+- **Visual style (keep it consistent on every page):**
+  - icon headings
+  - shields.io badges at the top of session pages
+  - `> [!TIP]` for the ready answer ("🗣️ Say this")
+  - `> [!NOTE]` for sources and context
+  - `> [!IMPORTANT]` for facts Rav must fill in
+  - `> [!WARNING]` / `> [!CAUTION]` for honesty and privacy
+  - every follow-up in a `<details><summary>` block with its answer inside
+  - tables instead of deeply nested bullets
+  - `---` between questions
+  - prev/next navigation at the bottom
+  - copy `templates/session-template.md`
 
 ## 8. Public repository and privacy
 

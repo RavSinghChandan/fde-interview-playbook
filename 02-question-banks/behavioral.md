@@ -1,37 +1,93 @@
-# Behavioral and ownership questions
+# 🧠 Behavioral and ownership questions
 
-## Q: Tell me about a time you found a problem others had not noticed.
+> [!CAUTION]
+> Every story here must be **true**. Pick real examples; never present a disguised success as a failure, or another person as unreasonable.
 
-**Story anchor:** Aaina evaluation found the model dropped customers' dislikes in 3 of 15 answers. Explain how you noticed the risk, how you made the behavior testable in code, why a repair retry was chosen, and what “100%” means for that tested set. Do not claim universal performance from a 15-case evaluation.
+---
 
-**Probe: Why not just improve the prompt?**
+## 💬 Q1. Tell me about a time you found a problem others hadn't noticed.
 
-**Answer:** "A prompt is a request, not a guarantee. With rules only in the prompt, 3 of 15 live profiles still broke them. A customer's dislike must never be ignored, so I moved the rule into code: the catalog is filtered before the model sees it, and the answer is checked afterwards. A model cannot pick an option it was never given. To broaden the test set, I would add held-out profiles I did not tune on, more languages, and every real complaint as a new case."
+> [!TIP]
+> **🗣️ Story anchor: Aaina.** The evaluation found the model dropped customers' dislikes in **3 of 15** answers. Explain:
+> - how you noticed the risk
+> - how you made the behaviour testable in code
+> - why you chose a repair retry
+> - what "100%" means for that tested set
 
-## Q: Tell me about a time you handled a production constraint.
+> [!WARNING]
+> Don't claim universal performance from a 15-case evaluation.
 
-**Story anchor:** Poultry 360 runs bird counting with an ONNX model on a plain CPU. Explain the actual device and latency constraints you targeted, how you selected the model/runtime, and what trade-offs you accepted. Be ready with measured latency and accuracy if available; otherwise say what you have and have not measured.
+**❓ Follow-ups** · *click to open*
 
-## Q: Tell me about a mistake or failure.
+<details>
+<summary><b>Why not just improve the prompt?</b></summary>
 
-Choose a real incident from your own work. State the impact honestly, your role, how you communicated, the correction, and what safeguard you added. The example should show accountability and learning, not a disguised success story.
+> "A prompt is a request, not a guarantee. With rules only in the prompt, 3 of 15 live profiles still broke them. A customer's dislike must never be ignored, so I moved the rule into code: the catalog is filtered before the model sees it, and the answer is checked afterwards. A model can't pick an option it was never given. To broaden the test set, I'd add held-out profiles I didn't tune on, more languages, and every real complaint as a new case."
 
-## Q: How do you handle feedback on unfamiliar code?
+</details>
 
-Use open-source work: you work in established libraries, read project conventions, make a focused change, respond to review, and revise until maintainers merge it. Explain one specific PR with the issue, tests or evidence, review feedback, and what you changed. “106 merged PRs” is a headline; the interviewer wants one concrete example.
+---
 
-## Q: Describe a disagreement with a stakeholder.
+## 💬 Q2. Tell me about a time you handled a production constraint.
 
-Pick a real example. Explain each person's goal, the evidence you gathered, how you made trade-offs visible, and how the decision was reached. Avoid presenting the other person as unreasonable.
+> [!TIP]
+> **🗣️ Story anchor: Poultry 360**, which runs bird counting with an ONNX model on a plain CPU. Explain the device and latency constraints you targeted, how you chose the model and runtime, and the trade-offs you accepted.
 
-## Q: How do you prioritize when everything is urgent?
+> [!IMPORTANT]
+> **✍️ Rav:** have measured latency and accuracy ready if you have them. If not, say what you have and haven't measured.
 
-Clarify customer impact, deadline, safety/security risk, dependencies, and reversibility. Communicate a short ranked plan and what will slip. Reassess when new evidence arrives. Do not promise multiple top priorities at once.
+---
 
-## Q: Why are you looking to move toward FDE?
+## 💬 Q3. Tell me about a mistake or failure.
 
-“I have repeatedly enjoyed work that starts with a practical problem and ends with software people can use. My background combines enterprise integrations and distributed systems with end-to-end AI products. FDE is a natural next step because it puts customer discovery, engineering, and adoption in the same responsibility.”
+> [!TIP]
+> **🗣️ Shape:** a real incident → honest impact → your role → how you communicated → the correction → the safeguard you added.
 
-## Q: What is an area you are improving?
+It should show **accountability and learning**, not a disguised success story.
 
-Choose a genuine skill gap relevant to the role, then name your current practice and evidence of progress. A useful example could be making customer discovery more structured: observe the workflow, write assumptions, agree on a measurable outcome, and validate the result with users. Only use this if it is true for you.
+---
+
+## 💬 Q4. How do you handle feedback on unfamiliar code?
+
+> [!TIP]
+> **🗣️ Story anchor: open source.** You work in established libraries: read the project's conventions, make a focused change, respond to review and revise until maintainers merge it.
+
+"106 merged PRs" is the headline. The interviewer wants **one concrete PR**: the issue, tests or evidence, review feedback, and what you changed → [story 6](../03-story-bank/README.md)
+
+---
+
+## 💬 Q5. Describe a disagreement with a stakeholder.
+
+> [!TIP]
+> **🗣️ Shape:** each person's goal → the evidence you gathered → how you made the trade-offs visible → how the decision was reached.
+
+---
+
+## 💬 Q6. How do you prioritise when everything is urgent?
+
+> [!TIP]
+> **🗣️ Say this (≈40 s)**
+>
+> "I clarify customer impact, deadline, safety or security risk, dependencies and reversibility. Then I share a short ranked plan that says what will slip, and reassess when new evidence arrives. I don't promise several top priorities at once."
+
+---
+
+## 💬 Q7. Why are you moving toward FDE?
+
+> [!TIP]
+> **🗣️ Say this (≈40 s)**
+>
+> "I have repeatedly enjoyed work that starts with a practical problem and ends with software people can use. My background combines enterprise integrations and distributed systems with end-to-end AI products. FDE is a natural next step because it puts customer discovery, engineering and adoption in the same responsibility."
+
+---
+
+## 💬 Q8. What is an area you're improving?
+
+> [!TIP]
+> **🗣️ Shape:** a genuine skill gap relevant to the role → what you practise now → evidence of progress.
+
+*Possible example (use only if true):* making customer discovery more structured: watch the workflow, write down assumptions, agree on a measurable outcome, and validate the result with users.
+
+---
+
+🏠 [Back to README](../README.md)
