@@ -300,11 +300,11 @@ print(f(1), f(2))
 
 ## 🔍 Open questions
 
-- Next class: dictionaries, strings, control flow, loops, functions and membership operators → add as **part 2**
+- Dictionaries and strings → covered in [part 2](../2026-10-17-python-collections-strings/README.md); control flow, loops and functions → [part 3](../2026-10-18-python-control-flow-functions/README.md)
 - Type hints, testing and packaging were not covered. Prepare them independently; interviewers probe them more than syntax
 
 ---
 
-⬅️ [Session 01 — Developer environment](../2026-10-10-dev-environment-uv/README.md) · 🏠 [README](../../README.md)
+⬅️ [Session 01 — Developer environment](../2026-10-10-dev-environment-uv/README.md) · ➡️ [Session 03 — Collections, copying and strings](../2026-10-17-python-collections-strings/README.md) · 🏠 [README](../../README.md)
 
 🔗 Related: [AI systems](../../02-question-banks/ai-systems.md) · [Story bank](../../03-story-bank/README.md)

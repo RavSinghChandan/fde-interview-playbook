@@ -6,8 +6,8 @@
 
 *Start with a 10-minute answer. Follow the probes until you can explain the decision, the evidence and the trade-off in your own words.*
 
-![Sessions](https://img.shields.io/badge/bootcamp%20sessions-3-2563eb?style=for-the-badge)
-![Merged PRs](https://img.shields.io/badge/merged%20OSS%20PRs-106-16a34a?style=for-the-badge)
+![Sessions](https://img.shields.io/badge/bootcamp%20sessions-5-2563eb?style=for-the-badge)
+![Merged PRs](https://img.shields.io/badge/merged%20OSS%20PRs-112-16a34a?style=for-the-badge)
 ![Live products](https://img.shields.io/badge/live%20AI%20products-3-9333ea?style=for-the-badge)
 
 </div>
@@ -43,6 +43,8 @@
 | 00 | 4 Oct | 🏁 [Induction: what to take forward](01-bootcamp-sessions/2026-10-04-induction/README.md) | FDE role, validation mindset, career Q&A |
 | 01 | 10 Oct | 🛠️ [Developer environment: CLI, VS Code, uv, notebooks](01-bootcamp-sessions/2026-10-10-dev-environment-uv/README.md) | Reproducible setups, "works on my laptop" |
 | 02 | 11 Oct | 🐍 [Python fundamentals recap, part 1](01-bootcamp-sessions/2026-10-11-python-fundamentals/README.md) | Mutability, types, real Python bugs |
+| 03 | 17 Oct | 🔤 [Python recap, part 2: collections, copying, strings](01-bootcamp-sessions/2026-10-17-python-collections-strings/README.md) | Input normalisation, shallow vs deep copy, CSV parsing, fraud-detection discovery |
+| 04 | 18 Oct | 🔀 [Python recap, part 3: control flow, loops, functions](01-bootcamp-sessions/2026-10-18-python-control-flow-functions/README.md) | Bounded retries, consent, human approval, `**kwargs` and global-state bugs |
 
 ## 🗂️ Question banks
 
@@ -68,7 +70,7 @@
 |:---:|---|
 | 🏦 | Production software in banking and aviation, including **500K+ airline transactions a day** and a reported **40% efficiency improvement** in a banking workflow |
 | 🚀 | **Three solo-built, live AI products** with concrete reliability, language-accessibility and safety work |
-| 🔀 | **106 merged open-source pull requests**, reviewed by maintainers |
+| 🔀 | **112 merged open-source pull requests**, reviewed by maintainers |
 | 🔁 | **End-to-end ownership**: problem framing → implementation → deployment → evaluation → operation |
 
 > [!IMPORTANT]

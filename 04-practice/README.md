@@ -16,6 +16,8 @@
 |---|---|:---:|
 | 🛠️ [Session 01](../01-bootcamp-sessions/2026-10-10-dev-environment-uv/README.md) | Recreate a project environment from your files alone | 15 min |
 | 🐍 [Session 02](../01-bootcamp-sessions/2026-10-11-python-fundamentals/README.md) | Predict the output of seven Python lines (answers included) | 10 min |
+| 🔤 [Session 03](../01-bootcamp-sessions/2026-10-17-python-collections-strings/README.md) | Predict copy, slicing, split and string-check outputs | 15 min |
+| 🔀 [Session 04](../01-bootcamp-sessions/2026-10-18-python-control-flow-functions/README.md) | Dry-run a nested loop with `break`/`continue`, then predict function calls | 15 min |
 
 ---
 
