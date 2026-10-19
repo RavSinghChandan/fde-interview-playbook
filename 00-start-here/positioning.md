@@ -15,7 +15,7 @@
 | 🚀 | **Applied AI ownership** | Poultry 360, Aaina and Aura with Rav turn a real need into a deployed product, not just a notebook or demo |
 | 🛡️ | **Reliability mindset** | Evaluations catching routing errors, preserving user dislikes, guarding against invented numbers, security checks, human approval |
 | 🌏 | **Customer context** | Poultry 360's low-literacy, multilingual design: the interface and operating context matter as much as the model |
-| 🔀 | **Learning in public** | 115 merged PRs: working in unfamiliar codebases, responding to review |
+| 🔀 | **Learning in public** | 116 merged PRs: working in unfamiliar codebases, responding to review |
 
 ## 📖 The transition story
 
