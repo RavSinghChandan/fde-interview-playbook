@@ -340,7 +340,7 @@ Staged or canary releases, feature flags and a tested rollback path. Name what y
 
 | | |
 |---|---|
-| 📊 **Evidence** | **128 merged pull requests** across projects including pypdf and fontTools, reviewed by maintainers |
+| 📊 **Evidence** | **130 merged pull requests** across projects including pypdf and fontTools, reviewed by maintainers |
 | 🎯 **Prepare one PR deeply** | User problem → repository context → reproduction → implementation → tests → review feedback → outcome |
 | 🔗 **Also answers** | "Can you write production Python?" → [Session 02](../01-bootcamp-sessions/2026-10-11-python-fundamentals/README.md) · "Why test you when agents write code?" → [Session 04](../01-bootcamp-sessions/2026-10-18-python-control-flow-functions/README.md) |
 
