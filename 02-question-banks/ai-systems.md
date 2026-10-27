@@ -16,6 +16,8 @@
 | 🧭 Flexible multi-step choices or tool use | An agent, with tight controls |
 | 🤷 Not sure yet | Test the simplest baseline first |
 
+🔗 Deeper version: [Session 06, Q8 "AI for a job SQL can do"](../01-bootcamp-sessions/2026-10-25-exceptions-files-iso/README.md)
+
 ---
 
 ## 💬 Q2. How would you evaluate an AI feature?
@@ -47,6 +49,8 @@ Start with expert review, pairwise comparisons or outcome proxies. Make the unce
 **Fast, stable checks** for critical behaviour and known regressions. Keep expensive or subjective evaluations in a scheduled or release process.
 
 </details>
+
+🔗 Deeper version: [Session 05, Q8 "Do you switch to the newer model?"](../01-bootcamp-sessions/2026-10-24-network-io-memory-streaming/README.md)
 
 ---
 

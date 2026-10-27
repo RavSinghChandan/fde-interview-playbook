@@ -434,6 +434,6 @@ print(list(enumerate("ab", start=1)))
 
 ---
 
-⬅️ [Session 03 — Collections, copying and strings](../2026-10-17-python-collections-strings/README.md) · 🏠 [README](../../README.md)
+⬅️ [Session 03 — Collections, copying and strings](../2026-10-17-python-collections-strings/README.md) · ➡️ [Session 05 — Network I/O, memory and streaming](../2026-10-24-network-io-memory-streaming/README.md) · 🏠 [README](../../README.md)
 
 🔗 Related: [AI systems](../../02-question-banks/ai-systems.md) · [Behavioral](../../02-question-banks/behavioral.md) · [Story bank](../../03-story-bank/README.md)

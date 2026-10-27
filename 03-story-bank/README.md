@@ -104,6 +104,7 @@ That's **in-sample** (written and fixed by me), so it shows the bug is gone, not
 | 💁 **User / problem** | Salon consultation (three suitable haircuts) across 11 languages |
 | 🛠️ **Your work** | Seven agents as a YAML-defined DAG · evaluation harness · customer dislikes protected in code · one repair retry |
 | 📊 **Evidence** | Prompt-only rules broke on **3 of 15** live profiles. With rules in code: **15/15** on the tested set |
+| 🔗 **Also answers** | "Do you switch to the newer model?" → [Session 05, Q8](../01-bootcamp-sessions/2026-10-24-network-io-memory-streaming/README.md) · "The business wants AI for a SQL job" → [Session 06, Q8](../01-bootcamp-sessions/2026-10-25-exceptions-files-iso/README.md) |
 | ⚖️ **Trade-off** | Why code enforcement + one repair retry; what the retry costs; what happens if it still fails |
 
 **❓ Likely probes** · *click to open*
@@ -154,6 +155,7 @@ Agents and workflows are YAML run by **one DAG engine**. A step exists only if i
 | 🙋 **User / problem** | Consumer AI product that produces personalised readings and reports |
 | 🛠️ **Your work** | LangGraph pipeline: 12 nodes, 5 domain agents in parallel, then a synthesis agent · injection checks · output checks · **human approval** before a report is generated |
 | 🛡️ **Guard stack** | See the table below, plus **G1–G5**: rate limiting · circuit breaker · JSON repair · PII output filter · graceful degradation |
+| 🔗 **Also answers** | "Wrap an LLM call safely" → [Session 06, Q1](../01-bootcamp-sessions/2026-10-25-exceptions-files-iso/README.md) · "Prove access control to an auditor" → [Session 06, Q6](../01-bootcamp-sessions/2026-10-25-exceptions-files-iso/README.md) |
 
 | Layer | What it does |
 |:---:|---|
@@ -342,7 +344,7 @@ Staged or canary releases, feature flags and a tested rollback path. Name what y
 |---|---|
 | 📊 **Evidence** | **140 merged pull requests** across projects including pypdf and fontTools, reviewed by maintainers |
 | 🎯 **Prepare one PR deeply** | User problem → repository context → reproduction → implementation → tests → review feedback → outcome |
-| 🔗 **Also answers** | "Can you write production Python?" → [Session 02](../01-bootcamp-sessions/2026-10-11-python-fundamentals/README.md) · "Why test you when agents write code?" → [Session 04](../01-bootcamp-sessions/2026-10-18-python-control-flow-functions/README.md) |
+| 🔗 **Also answers** | "Can you write production Python?" → [Session 02](../01-bootcamp-sessions/2026-10-11-python-fundamentals/README.md) · "Why test you when agents write code?" → [Session 04](../01-bootcamp-sessions/2026-10-18-python-control-flow-functions/README.md) · "Ingest a 10,000-page PDF" → [Session 05, Q4](../01-bootcamp-sessions/2026-10-24-network-io-memory-streaming/README.md) |
 
 **❓ Likely probes** · *click to open*
 

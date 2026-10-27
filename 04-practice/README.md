@@ -18,6 +18,8 @@
 | 🐍 [Session 02](../01-bootcamp-sessions/2026-10-11-python-fundamentals/README.md) | Predict the output of seven Python lines (answers included) | 10 min |
 | 🔤 [Session 03](../01-bootcamp-sessions/2026-10-17-python-collections-strings/README.md) | Predict copy, slicing, split and string-check outputs | 15 min |
 | 🔀 [Session 04](../01-bootcamp-sessions/2026-10-18-python-control-flow-functions/README.md) | Dry-run a nested loop with `break`/`continue`, then predict function calls | 15 min |
+| 🌐 [Session 05](../01-bootcamp-sessions/2026-10-24-network-io-memory-streaming/README.md) | Predict generator and iterator behaviour, then match five problems to a protocol | 15 min |
+| 🛡️ [Session 06](../01-bootcamp-sessions/2026-10-25-exceptions-files-iso/README.md) | Predict `try`/`except`/`else`/`finally` output, then map client sentences to ISO, SOC 2 or a law | 15 min |
 
 ---
 

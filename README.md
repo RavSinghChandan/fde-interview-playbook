@@ -6,7 +6,7 @@
 
 *Start with a 10-minute answer. Follow the probes until you can explain the decision, the evidence and the trade-off in your own words.*
 
-![Sessions](https://img.shields.io/badge/bootcamp%20sessions-5-2563eb?style=for-the-badge)
+![Sessions](https://img.shields.io/badge/bootcamp%20sessions-7-2563eb?style=for-the-badge)
 ![Merged PRs](https://img.shields.io/badge/merged%20OSS%20PRs-140-16a34a?style=for-the-badge)
 ![Live products](https://img.shields.io/badge/live%20AI%20products-3-9333ea?style=for-the-badge)
 
@@ -45,6 +45,8 @@
 | 02 | 11 Oct | 🐍 [Python fundamentals recap, part 1](01-bootcamp-sessions/2026-10-11-python-fundamentals/README.md) | Mutability, types, real Python bugs |
 | 03 | 17 Oct | 🔤 [Python recap, part 2: collections, copying, strings](01-bootcamp-sessions/2026-10-17-python-collections-strings/README.md) | Input normalisation, shallow vs deep copy, CSV parsing, fraud-detection discovery |
 | 04 | 18 Oct | 🔀 [Python recap, part 3: control flow, loops, functions](01-bootcamp-sessions/2026-10-18-python-control-flow-functions/README.md) | Bounded retries, consent, human approval, `**kwargs` and global-state bugs |
+| 05 | 24 Oct | 🌐 [Network I/O, memory and streaming data](01-bootcamp-sessions/2026-10-24-network-io-memory-streaming/README.md) | Protocol choice, HTTP status codes, 10,000-page PDF ingestion, memory growth, model upgrades |
+| 06 | 25 Oct | 🛡️ [Exceptions, files and ISO compliance](01-bootcamp-sessions/2026-10-25-exceptions-files-iso/README.md) | Wrapping LLM calls, safe file updates, ISO 27001/42001 and SOC 2, data that can't leave, code vs AI |
 
 ## 🗂️ Question banks
 
