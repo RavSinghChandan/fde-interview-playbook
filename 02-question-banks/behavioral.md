@@ -52,7 +52,7 @@ It should show **accountability and learning**, not a disguised success story.
 > [!TIP]
 > **🗣️ Story anchor: open source.** You work in established libraries: read the project's conventions, make a focused change, respond to review and revise until maintainers merge it.
 
-"136 merged PRs" is the headline. The interviewer wants **one concrete PR**: the issue, tests or evidence, review feedback, and what you changed → [story 6](../03-story-bank/README.md)
+"137 merged PRs" is the headline. The interviewer wants **one concrete PR**: the issue, tests or evidence, review feedback, and what you changed → [story 6](../03-story-bank/README.md)
 
 ---
 
