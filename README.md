@@ -7,7 +7,7 @@
 *Start with a 10-minute answer. Follow the probes until you can explain the decision, the evidence and the trade-off in your own words.*
 
 ![Sessions](https://img.shields.io/badge/bootcamp%20sessions-5-2563eb?style=for-the-badge)
-![Merged PRs](https://img.shields.io/badge/merged%20OSS%20PRs-133-16a34a?style=for-the-badge)
+![Merged PRs](https://img.shields.io/badge/merged%20OSS%20PRs-134-16a34a?style=for-the-badge)
 ![Live products](https://img.shields.io/badge/live%20AI%20products-3-9333ea?style=for-the-badge)
 
 </div>
@@ -70,7 +70,7 @@
 |:---:|---|
 | 🏦 | Production software in banking and aviation, including **500K+ airline transactions a day** and a reported **40% efficiency improvement** in a banking workflow |
 | 🚀 | **Three solo-built, live AI products** with concrete reliability, language-accessibility and safety work |
-| 🔀 | **133 merged open-source pull requests**, reviewed by maintainers |
+| 🔀 | **134 merged open-source pull requests**, reviewed by maintainers |
 | 🔁 | **End-to-end ownership**: problem framing → implementation → deployment → evaluation → operation |
 
 > [!IMPORTANT]
