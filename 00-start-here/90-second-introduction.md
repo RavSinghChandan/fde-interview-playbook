@@ -7,7 +7,7 @@
 >
 > Over the last few years I've applied that foundation to AI. I built and run products such as Poultry 360, which helps poultry farmers count birds and get advice in multiple Indian languages; Aaina, an AI consultation product for salons; and Aura with Rav, which uses safety checks and human approval. I use evaluations to catch failures rather than trusting a good-looking demo. For example, testing exposed language-routing and preference-preservation failures, and I turned those into explicit checks.
 >
-> I've also had 146 pull requests merged into open-source projects, which taught me to work in unfamiliar code and take maintainer feedback well. I'm targeting FDE roles because I like being close to the user's problem, building with them, integrating into their environment, and staying accountable until the solution is useful and reliable."
+> I've also had 147 pull requests merged into open-source projects, which taught me to work in unfamiliar code and take maintainer feedback well. I'm targeting FDE roles because I like being close to the user's problem, building with them, integrating into their environment, and staying accountable until the solution is useful and reliable."
 
 ## 🧩 Remember the sequence, not the sentences
 
